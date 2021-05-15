@@ -8,7 +8,10 @@ My name is Marcos, I'm from Argentina and I'm a Software Developer.
 
 - Python
 - Apex
+- Javascript
 - LWC
+- Visualforce
+- Aura
 - React (basic)
 - Scrum
 
